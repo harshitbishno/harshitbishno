@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **React Native, Data Science, Machine learnig**
+- 🌱 I’m currently learning **Node.Js Express.js MongoDB and Devops Tools**
 
 - 👨‍💻 All of my projects are available at [gallant-panini-576b0b.netlify.app](gallant-panini-576b0b.netlify.app)
 
-- 💬 Ask me about **React, MERN,DEVOPS**
+- 💬 Ask me about **PHP, WordPress, React.Js, HTML, CSS and Javascript**
 
 - 📫 How to reach me **vishnoiharshit34@gmail.com**
 
